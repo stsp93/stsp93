@@ -2,9 +2,14 @@
 
 👋 Hi, my name is Steliyan Petkov
 
-I’m 29 and [studying in SoftUni](https://softuni.bg/users/profile/show?username=stsp93),  
+I’m 29 and studying in [SoftUni](https://softuni.bg/users/profile/show?username=stsp93),  
 currently learning **JavaScript**
 and i'm building some demo projects.
+
+## Certificates
+[Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
+
+##
 
 #### I have an interest in :
    _HTML_ | _CSS_ | _Javascript_
