@@ -12,7 +12,7 @@ and i'm building some demo projects.
 ##
 
 #### I have an interest in :
-   _HTML_ | _CSS_ | _Javascript_
+   _HTML_ | _CSS_ | _JavaScript_ | _Node.js_
    
  [<img src="https://github.com/stsp93/stsp93/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/profile.php?id=1561391415)
    
