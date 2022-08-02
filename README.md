@@ -8,13 +8,15 @@ and i'm building some demo projects.
 
 ## Certificates
 [Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
-
 ##
 
 #### I have an interest in :
    _HTML_ | _CSS_ | _JavaScript_ | _Node.js_
-   
- [<img src="https://github.com/stsp93/stsp93/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/profile.php?id=1561391415)
+ ##  
+ My social Networks   
+ 
+ [<img style="width {10px}" src="https://github.com/stsp93/stsp93/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/profile.php?id=1561391415)
+ [<img src="https://github.com/stsp93/stsp93/blob/main/img/linkedin-logo-2430.png">](https://www.linkedin.com/in/steliyan-petkov-39b587247/)
    
 ![Animation of guy coding](https://github.com/stsp93/stsp93/blob/main/img/MvMxQ1a.gif)
 
