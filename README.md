@@ -11,7 +11,8 @@ and i'm building some demo projects.
 
 ## Certificates
 [Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
-[Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139026/8246e17a)
+[Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139026/8246e17a)   
+[JS Advanced](https://softuni.bg/certificates/details/145371/ef7cafa8)
 ##
 
 #### I have an interest in :
