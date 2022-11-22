@@ -12,6 +12,7 @@ and i'm building some demo projects.
 ## Certificates
 [Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
 [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139026/8246e17a)   
+[HTML & CSS](https://softuni.bg/certificates/details/147267/65f97899)   
 [JS Advanced](https://softuni.bg/certificates/details/145371/ef7cafa8)
 ##
 
@@ -22,6 +23,7 @@ and i'm building some demo projects.
  
  [<img style="width {10px}" src="https://github.com/stsp93/stsp93/blob/main/img/facebook-logo-2428.png">](https://www.facebook.com/profile.php?id=1561391415)
  [<img src="https://github.com/stsp93/stsp93/blob/main/img/linkedin-logo-2430.png">](https://www.linkedin.com/in/steliyan-petkov-39b587247/)
+ 
    
 ![Animation of guy coding](https://github.com/stsp93/stsp93/blob/main/img/MvMxQ1a.gif)
 
