@@ -13,7 +13,8 @@ and i'm building some demo projects.
 [Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
 [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139026/8246e17a)   
 [HTML & CSS](https://softuni.bg/certificates/details/147267/65f97899)   
-[JS Advanced](https://softuni.bg/certificates/details/145371/ef7cafa8)
+[JS Advanced](https://softuni.bg/certificates/details/145371/ef7cafa8)  
+[JS Applications](https://softuni.bg/certificates/details/149776/1c2a5dc1) 
 ##
 
 #### I have an interest in :
