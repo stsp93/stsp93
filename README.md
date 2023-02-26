@@ -4,7 +4,7 @@
 
 and I'm studying at [SoftUni](https://softuni.bg/users/profile/show?username=stsp93),
 
-currently learning **JavaScript**.
+currently learning **JavaScript** and **React**.
 
 ## Certificates
 [Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
@@ -15,7 +15,7 @@ currently learning **JavaScript**.
 ##
 
 #### I have an interest in :
-   _HTML_ | _CSS_ | _JavaScript_ | _Node.js_
+   _HTML_ | _CSS_ | _JavaScript_ | _Node.js_ | React
  ##  
  My social Networks   
  
