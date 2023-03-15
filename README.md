@@ -11,7 +11,8 @@ currently learning **JavaScript** and **React**.
 [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139026/8246e17a)   
 [HTML & CSS](https://softuni.bg/certificates/details/147267/65f97899)   
 [JS Advanced](https://softuni.bg/certificates/details/145371/ef7cafa8)  
-[JS Applications](https://softuni.bg/certificates/details/149776/1c2a5dc1) 
+[JS Applications](https://softuni.bg/certificates/details/149776/1c2a5dc1)    
+[JS Back-end](https://softuni.bg/certificates/details/162708/527bbf57) 
 ##
 
 #### I have an interest in :
