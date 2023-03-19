@@ -7,12 +7,12 @@ and I'm studying at [SoftUni](https://softuni.bg/users/profile/show?username=sts
 currently learning **JavaScript** and **React**.
 
 ## Certificates
-[Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
-[Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139026/8246e17a)   
-[HTML & CSS](https://softuni.bg/certificates/details/147267/65f97899)   
+[JS Back-end](https://softuni.bg/certificates/details/162708/527bbf57)  
+[JS Applications](https://softuni.bg/certificates/details/149776/1c2a5dc1)  
 [JS Advanced](https://softuni.bg/certificates/details/145371/ef7cafa8)  
-[JS Applications](https://softuni.bg/certificates/details/149776/1c2a5dc1)    
-[JS Back-end](https://softuni.bg/certificates/details/162708/527bbf57) 
+[HTML & CSS](https://softuni.bg/certificates/details/147267/65f97899)   
+[Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/139026/8246e17a)   
+[Programming Basics](https://softuni.bg/certificates/details/125679/a558f112)  
 ##
 
 #### I have an interest in :
