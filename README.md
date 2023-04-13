@@ -2,11 +2,11 @@
 
 👋 Hi, my name is Steliyan Petkov
 
-and I'm studying at [SoftUni](https://softuni.bg/users/profile/show?username=stsp93),
-
-currently learning **JavaScript** and **React**.
+and I've gruduated at [SoftUni](https://softuni.bg/users/profile/show?username=stsp93) 
+as JavaScript Web Developer with React.
 
 ## Certificates
+[ReactJS](https://softuni.bg/certificates/details/168639/9a3a39db)    
 [JS Back-end](https://softuni.bg/certificates/details/162708/527bbf57)  
 [JS Applications](https://softuni.bg/certificates/details/149776/1c2a5dc1)  
 [JS Advanced](https://softuni.bg/certificates/details/145371/ef7cafa8)  
